@@ -12,6 +12,6 @@
             <result>/index.jsp</result>
         </action>
     </package>
-    <include file="config/emp.xml"></include>
 
-</struts>
+	<include file="config/emp.xml"></include>
+</struts> 
